@@ -143,15 +143,6 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 
 ---
 
-<!-- ==================== SECTION F: GITHUB TROPHIES ==================== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kollahimavanth1-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 <!-- ==================== SECTION H: FOOTER ==================== -->
 
