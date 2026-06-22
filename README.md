@@ -1,24 +1,20 @@
-<!-- ==================== SECTION G: VISITOR COUNTER ==================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-</div>
-
-<br/>
-
 <!-- ==================== SECTION A: ANIMATED HEADER ==================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kolla%20Himavanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Code%20%E2%9C%A8%20Craft%20%7C%20Create&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kolla%20Himavanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Code%20%E2%9C%A8%20Craft%20%7C%20Create&descAlignY=55&descAlign=50" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=👋+Hey%2C+I'm+Kolla+Himavanth!;💻+Frontend+Developer;⚛️+React+%7C+TypeScript+%7C+Node.js;🧠+DSA+%7C+C+%7C+C%2B%2B+%7C+Python;🚀+Turning+Ideas+Into+Interfaces!" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Kolla+Himavanth+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%E2%9A%9B%EF%B8%8F;DSA+%7C+C+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;Turning+Ideas+Into+Interfaces+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=✨+2+Years+of+Crafting+Pixel-Perfect+Experiences;🎯+Where+Logic+Meets+Design;🔥+Clean+Code+%7C+Creative+Mind+%7C+Relentless+Builder" alt="Tagline" />
+
+[![Tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=2+Years+of+Crafting+Pixel-Perfect+Experiences+%E2%9C%A8;Where+Logic+Meets+Design+%F0%9F%8E%AF;Clean+Code+%7C+Creative+Mind+%7C+Relentless+Builder+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
@@ -29,7 +25,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```ts
 const himavanth: Developer = {
@@ -79,7 +75,7 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP%20with%20C%2B%2B-8E44AD?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2ECC71?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
@@ -125,15 +121,13 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 
 <!-- ==================== SECTION D: SOCIAL MEDIA LINKS ==================== -->
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himavanth-kolla-02a148371/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_GITHUB_USERNAME)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GITHUB_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kollahimavanth1@gmail.com)
 
 </div>
 
@@ -145,7 +139,7 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
@@ -182,7 +176,15 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
   </picture>
 </div>
 
-> 💡 **To enable the snake animation:** Go to your profile repo → **Actions** → enable the workflow "Generate Snake" (or add it manually). The SVG auto-generates every 24h.
+---
+
+<!-- ==================== SECTION G: VISITOR COUNTER ==================== -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
@@ -201,14 +203,16 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/👋%20Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himavanth-kolla-02a148371/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himavanth-kolla-02a148371/)
+&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kollahimavanth1@gmail.com)
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
 
-**💜 Made with passion by [Kolla Himavanth](https://github.com/YOUR_GITHUB_USERNAME) | Happy Coding! 💜**
+**💜 Made with passion by Kolla Himavanth | Happy Coding! 💜**
 
 </div>
