@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Kolla+Himavanth+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%E2%9A%9B%EF%B8%8F;DSA+%7C+C+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;Turning+Ideas+Into+Interfaces+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I%27m+Kolla+Himavanth+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%E2%9A%9B%EF%B8%8F;DSA+%7C+C+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;Turning+Ideas+Into+Interfaces+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -126,32 +126,19 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himavanth-kolla-02a148371/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kollahimavanth1-ai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kollahimavanth1@gmail.com)
 
 </div>
 
 ---
 
-<!-- ==================== SECTION E: GITHUB STATS ==================== -->
+<!-- ==================== SECTION E: GITHUB STREAK ==================== -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" width="50%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=kollahimavanth1-ai&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
@@ -161,29 +148,7 @@ I'm a **passionate Frontend Developer** with **2 years** of hands-on experience 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- ==================== SECTION G: VISITOR COUNTER ==================== -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kollahimavanth1-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
